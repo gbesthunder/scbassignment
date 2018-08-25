@@ -1,0 +1,12 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "Dummy Migration Frontend",
+  "main": "app.js",
+  "author": "momokung",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mysql": "^2.16.0"
+  }
+}
